@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm **MALOQUE**
+# 👋 Hi, I'm **MALOQUE** 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%22Stay+hungry.+Stay+Foolish%22;-+Steve+Jobs" alt="Typing SVG" />
-
+📍 Based in Hanoi, Vietnam <img src="https://img.icons8.com/doodle/48/vietnam--v1.png" alt="Vietnam Flag"/>
 </div>
 
 ---
@@ -24,8 +24,11 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.icons8.com/color/96/python--v1.png)
+![Java](https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png)
+![C++](https://img.icons8.com/color/96/c-plus-plus-logo.png)
+![SQL](https://img.icons8.com/fluency/96/sql.png)
+
 
 </div>
 
@@ -35,12 +38,12 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 <div align="center">
 
-![Google Cloud](https://img.icons8.com/color/48/google-cloud.png)
-![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)
-![PyTorch](https://img.icons8.com/fluency/48/pytorch.png)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.icons8.com/fluency/48/docker.png)
-![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
+[![Google Cloud](https://img.icons8.com/color/96/google-cloud.png)](https://cloud.google.com/)
+[![TensorFlow](https://img.icons8.com/color/96/tensorflow.png)](https://www.tensorflow.org/)
+[![PyTorch](https://img.icons8.com/fluency/96/pytorch.png)](https://pytorch.org/)
+[![Kaggle](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/)
+[![Docker](https://img.icons8.com/fluency/96/docker.png)](https://www.docker.com/)
+[![PostgreSQL](https://img.icons8.com/color/96/postgreesql.png)](https://www.postgresql.org/)
 
 </div>
 
@@ -49,11 +52,10 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maloque18705&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maloque18705&layout=compact&theme=tokyonight&hide_border=true)
-
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Maloque18705&theme=dark&show_icons=true&count_private=true">
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Maloque18705&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Maloque18705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 </div>
 
 ---
@@ -62,9 +64,9 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tienson.tran.758/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiến-sơn-trần-151aa2324)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tsonn.__init__/)
+[![Facebook](https://img.icons8.com/fluency/96/facebook-new.png)](https://www.facebook.com/tienson.tran.758/)
+[![LinkedIn](https://img.icons8.com/color/96/linkedin.png)](https://www.linkedin.com/in/tiến-sơn-trần-151aa2324)
+[![Instagram](https://img.icons8.com/fluency/96/instagram-new.png)](https://www.instagram.com/tsonn.__init__/)
 
 </div>
 
@@ -72,7 +74,7 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 <div align="center">
 
-### 💡 *"The only way to do great work is to love what you do."*
+### 💡 *"First, be kind to yourself."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maloque18705&color=blueviolet&style=flat-square&label=Profile+Views)
 
