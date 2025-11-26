@@ -74,6 +74,6 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 ### 💡 *"The only way to do great work is to love what you do."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Maloque18705&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
