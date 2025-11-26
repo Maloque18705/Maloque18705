@@ -1,9 +1,7 @@
 <div align="center">
-
-# 👋 Hi, I'm **MALOQUE** 
-
+<h1>👋 Hi, I'm <strong>MALOQUE</strong></h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%22Stay+hungry.+Stay+Foolish%22;-+Steve+Jobs" alt="Typing SVG" />
-📍 Based in Hanoi, Vietnam <img src="https://img.icons8.com/doodle/48/vietnam--v1.png" alt="Vietnam Flag"/>
+<br>📍 Based in Hanoi, Vietnam <img src="https://img.icons8.com/doodle/48/vietnam--v1.png" alt="Vietnam Flag"/> </br>
 </div>
 
 ---
