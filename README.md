@@ -35,12 +35,12 @@ I'm constantly learning, experimenting, and pushing boundaries to turn ideas int
 
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Google Cloud](https://img.icons8.com/color/48/google-cloud.png)
+![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)
+![PyTorch](https://img.icons8.com/fluency/48/pytorch.png)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.icons8.com/fluency/48/docker.png)
+![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
 
 </div>
 
